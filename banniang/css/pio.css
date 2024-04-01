@@ -185,9 +185,7 @@ body
 #github{
     position: absolute;
     color: #bf5858;
-    font-size: 50px;
+    font-size: 100  px;
     font-family: Arial, sans-serif;
-    text-decoration: none;
-    border: #fff;
-    background-color: silver;
+    text-decoration: green wavy underline;
 }
