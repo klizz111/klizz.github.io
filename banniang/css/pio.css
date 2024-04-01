@@ -184,10 +184,10 @@ body
 
 #github{
     position: absolute;
-    right: 0;
-    bottom: 0;
     color: #bf5858;
-    font-size: 20px;
+    font-size: 50px;
     font-family: Arial, sans-serif;
     text-decoration: none;
+    border: #fff;
+    background-color: silver;
 }
