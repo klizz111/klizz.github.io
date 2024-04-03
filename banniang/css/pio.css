@@ -48,7 +48,7 @@
 }
 
 .pio-container.left{ left: 0 }
-.pio-container.right{ right: 37% ; height: auto ;}
+.pio-container.right{ right: 37% ; height: 70% ;}
 .pio-container.active{ cursor: move }
 .pio-container.static{ pointer-events: none }
 
