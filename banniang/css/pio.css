@@ -126,6 +126,7 @@
     color:chocolate;
     position: absolute;
     left: 50%;
+    font-size: 50px;
     transform: translateX(-50%);
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -137,7 +138,7 @@
 
     position: relative;
     left: 40%;
-    bottom: -10%;
+    bottom: -12%;
 
     
 
@@ -188,4 +189,12 @@ body
     font-size: 60px;
     font-family: Arial, sans-serif;
     text-decoration: green wavy underline;
+}
+
+#asteroids{
+    bottom: 80%;
+    position: absolute;
+    color: #bf5858;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
 }
