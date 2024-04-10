@@ -188,13 +188,26 @@ body
     position: absolute;
     color: #bf5858;
     font-size: 4vw;
+    left: 4%;
     font-family: Arial, sans-serif;
     text-decoration: green wavy underline;
 }
 
-#asteroids{
-    bottom: 80%;
+#github1{
     position: absolute;
+    color: #bf5858;
+    font-size: 3vw;
+    left: 4%;
+    bottom: 80%;
+    font-family: Arial, sans-serif;
+    text-decoration: green wavy underline;
+
+}
+
+#asteroids{
+    bottom: 70%;
+    position: absolute;
+    left: 4%;
     color: #bf5858;
     font-size: 2vw;
     font-family: Arial, sans-serif;
