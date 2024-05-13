@@ -1,0 +1,1 @@
+import{_ as p,c as t,o as e,a5 as _}from"./chunks/framework.DOZZuqv2.js";const J=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"6666.md","filePath":"6666.md","lastUpdated":null}'),a={name:"6666.md"},o=_("",44),s=[o];function B(c,n,r,S,l,d){return e(),t("div",null,s)}const i=p(a,[["render",B]]);export{J as __pageData,i as default};
